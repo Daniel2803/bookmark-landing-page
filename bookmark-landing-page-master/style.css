@@ -1,0 +1,326 @@
+
+
+body {
+  font-family: 'Rubik', sans-serif;
+  margin: 0;
+
+}
+p{
+    color: hsl(229, 8%, 60%);
+}
+hr {
+  width: 33%;
+}
+footer{
+  background-color: hsl(231, 69%, 60%);
+  color: white;
+  margin-top: 200px;
+}
+h1 {
+  font-size: 50px;
+  margin-left: 150px;
+  width: 35%;
+}
+.top-p {
+  width: 25%;
+  margin-left: 150px;
+  line-height:1.5;
+}
+.top-h2{
+  margin: 200px 0 30px 700px;
+}
+.top-p2{
+width: 25%;
+line-height: 1.5;
+text-align: center;
+margin: 0 0 150px 550px;
+}
+.simple {
+position: absolute;
+top: 930px;
+right: 1100px;
+}
+.speedy {
+position: absolute;
+top: 930px;
+right: 850px;
+}
+.easy {
+position: absolute;
+top: 930px;
+right: 600px;
+}
+.features {
+  position: absolute;
+  top: 50px;
+  right: 600px;
+}
+.pricing2{
+  position: absolute;
+  top: 50px;
+  right: 500px;
+}
+.contact2{
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+.myButton {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+	background-color:#e63e33;
+	border-radius:5px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:13px 30px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#eb675e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.top-h3{
+  margin-top: 100px;
+font-size: 30px;
+}
+.top-p3 {
+  width: 60%;
+  line-height: 1.5;
+}
+.top-container {
+  position: absolute;
+  width: 40%;
+  top: 1000px;
+  right: 100px;
+}
+.myButton1 {
+  margin: 0 10px 0 150px;
+  	background-color:#5368df;
+  	border-radius:6px;
+  	border:1px solid #5368df;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:15px;
+  	padding:16px 19px;
+  	text-decoration:none;
+  }
+  .myButton1:hover {
+  	background-color:#5368df;
+  }
+  .myButton1:active {
+  	position:relative;
+  	top:1px;
+  }
+  .myButton2 {
+  	box-shadow: 0px 3px 11px 0px #d4dbd2;
+  	background-color:#e5e6e8;
+  	border-radius:6px;
+  	border:1px solid #e3e4e8;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#1f001f;
+  	font-family:Arial;
+  	font-size:15px;
+  	padding:16px 19px;
+  	text-decoration:none;
+  }
+  .myButton2:hover {
+  	background-color:#e7e9f5;
+  }
+  .myButton2:active {
+  	position:relative;
+  	top:1px;
+  }
+  .myButton4 {
+    position: absolute;
+    top: 1270px;
+    right: 660px;
+  	background-color:#5368df;
+  	border-radius:6px;
+  	border:1px solid #5368df;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:15px;
+  	padding:15px 19px;
+  	text-decoration:none;
+  }
+  .myButton4:hover {
+  	background-color:#5368df;
+  }
+  .myButton4:active {
+  	position:relative;
+  	top:1px;
+  }
+.middle-h2 {
+  margin: 200px 0 0 700px;
+}
+.middle-p {
+  width: 30%;
+  text-align: center;
+  margin: 20px 0 100px 600px;
+}
+.chrome {
+width: 250px;
+height: 400px;
+box-shadow: 0 0 5px #e6e6e6;
+margin-left: 300px;
+margin-bottom: 300px;
+}
+.fire {
+width: 250px;
+height: 400px;
+box-shadow: 0 0 5px #e6e6e6;
+position: absolute;
+top: 1810px;
+right: 800px;
+}
+.opera {
+width: 250px;
+height: 400px;
+box-shadow: 0 0 5px #e6e6e6;
+position: absolute;
+top: 1870px;
+right: 500px;
+}
+.myButton5 {
+  margin: 100px 0 0 25px;
+	background-color:#5368df;
+	border-radius:6px;
+	border:1px solid #5368df;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:14px 19px;
+	text-decoration:none;
+}
+.myButton5:hover {
+	background-color:#5368df;
+}
+.myButton5:active {
+	position:relative;
+	top:1px;
+}
+.bottom-h2 {
+  font-size: 30px;
+  margin: 0 0 0px 600px;
+}
+.bottom-p {
+  margin: 20px 0 50px 550px;
+  width: 30%;
+  text-align: center;
+}
+.what {
+  color: black;
+margin: 20px 0 20px 550px;
+}
+.how {
+  color: black;
+margin: 20px 0 20px 550px;
+}
+.is {
+  color: black;
+margin: 20px 0 20px 550px;
+}
+.what-2 {
+  color: black;
+margin: 20px 0 20px 550px;
+}
+.myButton6 {
+margin : 50px 0 0 750px;
+  background-color:#5368df;
+  border-radius:6px;
+  border:1px solid #5368df;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:15px;
+  padding:15px 19px;
+  text-decoration:none;
+}
+.myButton6:hover {
+  background-color:#5368df;
+}
+.myButton6:active {
+  position:relative;
+  top:1px;
+}
+.footer-p {
+  margin: 0 0 0 700px;
+  padding-top: 100px;
+  color: white;
+}
+.footer-h2 {
+  font-size: 30px;
+  width: 25%;
+  text-align: center;
+  margin-left: 600px;
+}
+.myButton7 {
+  position: absolute;
+  top: 3410px;
+  right: 600px;
+	background-color:#fa5757;
+	border-radius:4px;
+	border:1px solid #fa5757;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:9px 22px;
+	text-decoration:none;
+}
+.myButton7:hover {
+	background-color:#fa5757;
+}
+.myButton7:active {
+	position:relative;
+	top:1px;
+}
+.add {
+  margin-left: 75px;
+  color: black;
+}
+.min {
+  font-size: 14px;
+  margin-left: 69px;
+}
+.bottom-footer {
+  background-color: hsl(229, 31%, 21%);
+  color: white;
+  padding-bottom: 20px;
+}
+
+.feature {
+color: white;
+position: absolute;
+top: 3542px;
+right: 1200px;
+}
+.pricing {
+color: white;
+position: absolute;
+top: 3542px;
+right: 1100px;
+}
+.contact {
+color: white;
+position: absolute;
+top: 3542px;
+right: 1000px;
+}
